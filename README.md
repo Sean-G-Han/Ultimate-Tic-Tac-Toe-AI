@@ -23,7 +23,7 @@ The AI uses the Minimax algorithm, which recursively simulates all possible game
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/ultimate-ttt-ai.git
+git clone
 cd ultimate-ttt-ai
 python main.py
 Make sure you have Python 3.7+ installed.
