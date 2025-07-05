@@ -10,7 +10,8 @@ This project features:
 - Turn-based gameplay with win/draw detection at both local and global levels.
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/5980ef3e-3f6e-429a-9b4b-c646a9ba9265)
+![image](https://github.com/user-attachments/assets/cfe2b127-8808-4d39-bf5a-89def730f8f5)
+
 
 
 ## How the AI Works
